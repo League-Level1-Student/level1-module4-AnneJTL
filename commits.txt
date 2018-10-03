@@ -1,1 +1,1 @@
-
+First commit just after cloning the repository in IntelliJ
